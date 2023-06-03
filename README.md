@@ -6,7 +6,7 @@ tags:
   - aiohttp
 ---
 
-# Python Flask Example
+# Python aiohttp Example
 
 This is a [aiohttp](https://docs.aiohttp.org/en/stable/) app that serves a simple JSON response.
 
